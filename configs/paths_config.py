@@ -1,6 +1,6 @@
 dataset_paths = {
-	'ffhq': '',
-	'celeba_test': '',
+	'ffhq': '/content/images/train_A',
+	'celeba_test': '/content/images/test_A',
 
 	'cars_train': '',
 	'cars_test': '',
