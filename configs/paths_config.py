@@ -1,6 +1,6 @@
 dataset_paths = {
-	'ffhq': '/content/images/train_A',
-	'celeba_test': '/content/images/test_A',
+	'ffhq': '/kaggle/working/images/train_A',
+	'celeba_test': '/kaggle/working/images/test_A',
 
 	'cars_train': '',
 	'cars_test': '',
